@@ -88,8 +88,13 @@
 | **Step 3** | XGBoost / RandomForest | 0.91 | 앙상블 알고리즘 적용 |
 | **Final** | **Refined Model (Final)** | **0.97** | **그룹 세분화 및 정밀 정제 완료** |
 ---
-
+99퍼센트 모델과의 비교
 <img width="1160" height="677" alt="image" src="https://github.com/user-attachments/assets/8945d6d9-ebd0-4d70-b1a0-5574a4ba7d03" />
+<img width="681" height="638" alt="image" src="https://github.com/user-attachments/assets/f223a6ad-c916-4e75-9c18-0ac0087e3197" />
+<img width="887" height="638" alt="image" src="https://github.com/user-attachments/assets/0ef9e8ba-a78a-4668-b977-9d1ae1599319" />
+<img width="1223" height="603" alt="image" src="https://github.com/user-attachments/assets/fe9671d7-5a5d-4eae-b6ac-f30097865335" />
+<img width="789" height="636" alt="image" src="https://github.com/user-attachments/assets/93271eb5-07a3-478c-97f0-8b65ec4fa632" />
+<img width="1233" height="678" alt="image" src="https://github.com/user-attachments/assets/b0918dc5-eba1-48aa-b117-4832e2ba5c85" />
 
 ## ⚙️ 기술 스택
 - **언어**: Python 3.x
