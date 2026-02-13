@@ -89,6 +89,7 @@
 | **Final** | **Refined Model (Final)** | **0.97** | **그룹 세분화 및 정밀 정제 완료** |
 ---
 
+<img width="1160" height="677" alt="image" src="https://github.com/user-attachments/assets/8945d6d9-ebd0-4d70-b1a0-5574a4ba7d03" />
 
 ## ⚙️ 기술 스택
 - **언어**: Python 3.x
